@@ -1,0 +1,20 @@
+/* .hero-section {
+    height: 90vh;
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+    ), url('images/dark.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+} */
+
+.hero-section {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: #0c0101;
+}
+.main {
+    margin: 400px 100px ;
+}
