@@ -18,7 +18,7 @@
                          "A To-Do List is a simple yet powerful tool for organizing tasks,<br>
                          boosting productivity, and reducing stress."
                     </h1>
-                    <p class="lead">
+                    <p class="">
                         Here's why it's helpful:
                         <ul>
                             <li> Prioritization - Helps you focus on what's most important. </li>
@@ -31,7 +31,7 @@
 
                 <div>
                     <h5> Stay Organized, Get Things Done </h5>
-                    <p class="lead mt-3"> Manage your tasks easily with our Laravel To-do List App. </p>
+                    <p class=" mt-3"> Manage your tasks easily with our Laravel To-do List App. </p>
                 </div>
 
                 <div class="mt-4">
